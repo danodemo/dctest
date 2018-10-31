@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  shop: one
+  check_in: 2018-10-31 16:28:11
+
+two:
+  employee: two
+  shop: two
+  check_in: 2018-10-31 16:28:11
